@@ -3,6 +3,8 @@
 ## Event Information
 This project was created for the presentation at [DevFest 2022, Munich](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-devfest-munich-2022/)
 
+## CompoDoc
+Run `npm run compodoc:build-and-serve` command and navigate to URL to see project structure.
 
 ## Setup
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
